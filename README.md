@@ -1,5 +1,5 @@
 # InfinityEcho
-PoweredBrain is a Virtual Personal Assistant(VPA) created purely in python. 
+InfinityEcho is a Virtual Personal Assistant(VPA) created purely in python. 
 Modules used:
 pyttsx3- for text to speech
 speech_Recognition- for giving voice commands
